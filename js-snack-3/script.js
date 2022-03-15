@@ -20,6 +20,6 @@ if (array1.length < array2.length){
 
 while(array1.length !== array2.length){
 
-  minore2.push('X');
+  minore2.push('casuale');
 
 }
